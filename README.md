@@ -4,7 +4,7 @@
 
 We design and build practical digital solutions for businesses in Kenya and beyond — from responsive websites and mobile applications to tailored internal systems and digital platforms.
 
-🌐 **Website:** [atragate.com](https://atragate.com) · 📍 **Nairobi, Kenya** · ✉️ **[info@atragate.com](mailto:info@atragate.com)**
+**Website:** [atragate.com](https://atragate.com) · **Nairobi, Kenya** · **[info@atragate.com](mailto:info@atragate.com)**
 
 ## What we build
 
