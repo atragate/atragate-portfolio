@@ -22,7 +22,7 @@ The projects below are showcased through their public websites. Their production
 | Project | Overview | Public link |
 | --- | --- | --- |
 | **Tradebit Markets** | Synthetic indices trading platform with Rise/Fall and Digits contracts | [Visit website](https://tradebitmarkets.com/) |
-| **Apex Bull Trade** | Browser platform for building automated trading strategies without code | [Visit website](https://apexbulltrade.com/) |
+| **Apex Bull Trade** | Trading platform for Deriv affiliates | [Visit website](https://apexbulltrade.com/) |
 | **Kizazi Legacy** | Land and real estate management | [Visit website](https://kizazilegacy.com/) |
 | **Pesacraft** | Savings app for individuals and chamas with M-Pesa transactions and a savings ledger | [Visit website](https://pesacraft.com/) |
 | **House of Handbags** | Online store for premium handbags | In development |
