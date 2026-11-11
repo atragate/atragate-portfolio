@@ -21,6 +21,7 @@ The projects below are showcased through their public websites. Their production
 
 | Project | Overview | Public link |
 | --- | --- | --- |
+| **Kichele Group** | Savings and investment plans, custom software with USSD and M-Pesa integrations, and security services | [Visit website](https://kichelegroup.com/) |
 | **Tradebit Markets** | Synthetic indices trading platform with Rise/Fall and Digits contracts | [Visit website](https://tradebitmarkets.com/) |
 | **Apex Bull Trade** | Trading platform for Deriv affiliates | [Visit website](https://apexbulltrade.com/) |
 | **Kizazi Legacy** | Land and real estate management | [Visit website](https://kizazilegacy.com/) |
