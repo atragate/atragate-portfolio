@@ -21,13 +21,14 @@ The projects below are showcased through their public websites. Their production
 
 | Project | Overview | Public link |
 | --- | --- | --- |
-| **Kizazi Legacy** | Real estate and land management | [Visit website](https://kizazilegacy.com/) |
-| **Pesacraft** | Savings and investment platform | [Visit website](https://pesacraft.com/) |
-| **Homes Concrete** | Concrete mixing and machinery hire | [Visit website](https://homesconcrete.com/) |
-| **Macdonald Trevan International School** | School website and management platform | [Visit website](https://mtischools.com/) |
-| **Bunikrafts** | Marketplace for African artisan crafts | [Visit website](https://bunikrafts.com/) |
-| **Lukman Trustfund** | Investment and asset management web presence | [Visit website](https://lukman-trustfund.co.ke/) |
-| **House of Handbags** | E-commerce platform | In development |
+| **Tradebit Markets** | Synthetic indices trading platform with Rise/Fall and Digits contracts | [Visit website](https://tradebitmarkets.com/) |
+| **Apex Bull Trade** | Browser platform for building automated trading strategies without code | [Visit website](https://apexbulltrade.com/) |
+| **Kizazi Legacy** | Land and real estate management | [Visit website](https://kizazilegacy.com/) |
+| **Pesacraft** | Savings app for individuals and chamas with M-Pesa transactions and a savings ledger | [Visit website](https://pesacraft.com/) |
+| **House of Handbags** | Online store for premium handbags | In development |
+| **Vacation Rides** | Accessible vacation transport and mobility assistance | [Visit website](https://vacationrides.co.ke/) |
+| **Bunikrafts** | Online marketplace for African handmade goods | [Visit website](https://bunikrafts.com/) |
+| **Lukman Trustfund** | Website for an investment and asset management company | [Visit website](https://lukman-trustfund.co.ke/) |
 
 See additional information and project status on our [official portfolio](https://atragate.com/projects).
 
