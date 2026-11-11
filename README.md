@@ -1,4 +1,4 @@
-# Atragate IT Ltd
+# Atragate
 
 **Ideas. Code. Solution.**
 
@@ -43,4 +43,4 @@ Have a project in mind? [Contact Atragate](https://atragate.com/contact) to disc
 
 > **Source code policy:** Client projects and proprietary implementations are maintained in private repositories. This public portfolio contains project summaries and links only; it is not a distribution of production code.
 
-© 2026 Atragate IT Ltd.
+© 2026 Atragate
