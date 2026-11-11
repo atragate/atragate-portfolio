@@ -2,16 +2,16 @@
 
 **Ideas. Code. Solution.**
 
-We design and build practical digital solutions for businesses in Kenya and beyond — from responsive websites and mobile applications to tailored internal systems and digital platforms.
+We design and build practical digital solutions for businesses in Kenya and beyond, from responsive websites and mobile applications to tailored internal systems and digital platforms.
 
 **Website:** [atragate.com](https://atragate.com) · **Nairobi, Kenya** · **[info@atragate.com](mailto:info@atragate.com)**
 
 ## What we build
 
-- **Websites & web applications** — business websites, e-commerce, portals and custom platforms
-- **Mobile applications** — cross-platform applications for Android and iOS
-- **Business systems** — workflow automation, administration, inventory and management tools
-- **Integrations** — APIs, USSD and voice-enabled services
+- **Websites & web applications**: business websites, e-commerce, portals and custom platforms
+- **Mobile applications**: cross-platform applications for Android and iOS
+- **Business systems**: workflow automation, administration, inventory and management tools
+- **Integrations**: APIs, USSD and voice-enabled services
 
 **Technology:** Laravel · PHP · Flutter · Dart · JavaScript · MySQL · REST APIs
 
